@@ -1,53 +1,27 @@
-# Pintree
-
-<div align="center">
+# My-Pintree
 
 [English](./README.md) | [简体中文](./README-zh.md)
 
-  <h3>Pintree - Turn Your Browser Bookmarks into a Directory Website</h3>
-  <p>Create and monetize your own directory website from browser bookmarks in minutes.</p>
-</div>
 
-## 🔗 Links
+> This repository is forked from [Pintree-io/pintree](https://www.github.com/Pintree-io/pintree), which is an earlier pure front-end version, primarily for personal use.
 
-- [Pintree Official Website](https://pintree.io)
+
+
+## Pintree - Convert Your Browser Bookmarks into a Navigation Website
+
+Create a navigation website from your browser bookmarks in just a few minutes.
+
+
+
+## 🔗 Official Links
+
+- [Pintree Official Website](https://pintree.io/zh)
 - [Demo](https://demo.pintree.io)
 - [Documentation](https://docs.pintree.io)
-- [Changelog](https://docs.pintree.io/en/changelog)
+- [Changelog](https://docs.pintree.io/zh/changelog)
 
-## ✨ Features
+## 🛠️ Configuration Instructions
 
-### Basic Version (Free)
-- 📑 Unlimited Import/Export Bookmarks
-- 📁 Bookmark Management
-- 🎨 Basic Theme Customization
-- 🔍 Bookmark Search
+1. The page and basic styles are defined in `index.html`, which can be modified directly if needed.
+2. The bookmark content is configured in `/json/pintree.json`.
 
-### [Professional Version (PRO)](https://www.pintree.io/#pricing)
-- 📑 All Basic Version Features
-- 📚 Multiple Collection Switching
-- 🔒 Private Collections
-- 📢 Multiple Ad Space Configuration
-- 🤖 AI Search
-- 🎯 Professional SEO Optimization
-- 📊 Detailed Access Statistics
-- 💻 Priority Technical Support
-- 🕒 Lifetime Access
-- 🔄 Free Lifetime Updates
-
-## 🛠️ Tech Stack
-
-- **Frontend&Backend**: Next.js
-- **Deployment**: Vercel
-- **Database**: PostgreSQL
-
-## 👥 Community
-
-- Twitter: [@pintree_io](https://twitter.com/pintree_io)
-- GitHub: [github.com/Pintree-io](https://github.com/Pintree-io)
-- Discord: [Join Community](https://discord.gg/gJTrkHFg)
-- Email: feedback@pintree.io
-
-## ❤️ Contributing
-
-We welcome Issues and Pull Requests to help improve this documentation.

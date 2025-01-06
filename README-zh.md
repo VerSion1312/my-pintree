@@ -1,53 +1,28 @@
-# Pintree
-
-<div align="center">
+# My-Pintree
 
 [English](./README.md) | [简体中文](./README-zh.md)
 
-  <h3>Pintree - 将您的浏览器书签转换为导航网站</h3>
-  <p>在几分钟内从浏览器书签创建一个导航网站。</p>
-</div>
+> 本仓库是从[Pintree-io/pintree](https://www.github.com/Pintree-io/pintree) 经由fork而来的，是比较早的纯前端版本，主要为自用。
 
-## 🔗 链接
+
+
+## Pintree - 将您的浏览器书签转换为导航网站
+
+在几分钟内从浏览器书签创建一个导航网站。
+
+
+
+
+## 🔗 官方链接
 
 - [Pintree 官方网站](https://pintree.io/zh)
 - [演示](https://demo.pintree.io)
 - [文档](https://docs.pintree.io)
 - [更新日志](https://docs.pintree.io/zh/changelog)
 
-## ✨ 功能
 
-### 基础版（免费）
-- 📑 无限导入/导出书签
-- 📁 书签管理
-- 🎨 基本主题定制
-- 🔍 书签搜索
 
-### [专业版（PRO）](https://www.pintree.io/zh#pricing)
-- 📑 所有基础版功能
-- 📚 多集合切换
-- 🔒 私人收藏
-- 📢 多广告位配置
-- 🤖 AI 搜索
-- 🎯 专业 SEO 优化
-- 📊 详细访问统计
-- 💻 优先技术支持
-- 🕒 终身访问
-- 🔄 免费终身更新
+## 🛠️ 配置说明
 
-## 🛠️ 技术栈
-
-- **前后端**: Next.js
-- **部署**: Vercel
-- **数据库**: PostgreSQL
-
-## 👥 社区
-
-- 推特: [@pintree_io](https://twitter.com/pintree_io)
-- GitHub: [github.com/Pintree-io](https://github.com/Pintree-io)
-- Discord: [加入社区](https://discord.gg/gJTrkHFg)
-- 邮箱: feedback@pintree.io
-
-## ❤️ 贡献
-
-我们欢迎问题和拉取请求以帮助改进此文档。
+1. 页面及基础样式在`index.html`中定义，有需要可以直接修改。
+2. 书签内容在`/json/pintree.json`中配置。
